@@ -34,6 +34,8 @@ Este repositório documenta a prática realizada com os serviços de **IA do Azu
 
 > "Comprei um notebook novo e estou muito satisfeito com a performance. A bateria dura bastante e o design é bonito. Porém, o atendimento da loja deixou a desejar, tive que esperar muito tempo para ser atendido. No geral, foi uma experiência razoável."
 
+![Resultado da análise de sentimentos no Azure Language Studio](./images/print.png)
+
 ---
 
 ## 🔍 Links de Referência
